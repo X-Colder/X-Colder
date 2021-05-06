@@ -79,6 +79,3 @@ int close(int fd);
 
 
 
-=======
-![img_3.png](img_3.png)
->>>>>>> origin/main
