@@ -7,6 +7,7 @@
 是应用程序和操作系统之间进行数据交换的桥梁。
 ```
 
+<<<<<<< HEAD
 ![img.png](img.png)
 
 - 如图所示描述builtin函数printf的执行过程
@@ -78,3 +79,6 @@ int close(int fd);
 
 
 
+=======
+![img_3.png](img_3.png)
+>>>>>>> origin/main
